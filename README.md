@@ -1,2 +1,2 @@
-# introduction
-An simple introduction of Class 8A, Wuhan No.45 Middle School
+# Wuhan-No.45-middleschool
+The public website of No.45 middleschool
